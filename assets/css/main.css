@@ -269,6 +269,67 @@ input, select, textarea {
 	}
 
 
+	.important-dates {
+		font-family: 'Questrial', sans-serif;
+		max-width: 600px;
+		
+	  }
+
+	  .macroareas-container {
+		
+		display: flex;
+		flex-wrap: wrap;
+		gap: 30px;
+		justify-content: space-between;
+	  }
+	  
+	  .macroarea {
+		flex: 1 1 45%;
+		padding: 15px;
+		
+		
+	  }
+	  .area-entry {
+		display: flex;
+		justify-content: space-between;
+		padding: 0.6em 0em;
+		border-bottom: 1px solid #ddd;
+	  }
+	
+	  .area-value {
+		text-align: left;
+		font-size: 15px;
+		color: #444141;
+		font-weight: 500;
+	  }
+	
+
+
+
+	  .round-title {
+		color:#444141;
+		margin-top: 1em;
+		border-bottom: 4px solid #bb0606;
+		
+	  }
+	
+	  .date-entry {
+		display: flex;
+		justify-content: space-between;
+		padding: 0.6em 0em;
+		border-bottom: 1px solid #ddd;
+	  }
+	
+	  .date-value {
+		color: #444141;
+		font-weight: 500;
+	  }
+
+	  .round-title strong{
+		color: #444141;
+	  }
+
+	 
 	
 /*--------------------------------------------------------------
 # Icon Boxes
