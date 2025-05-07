@@ -165,7 +165,7 @@ input, select, textarea {
 	.title{
 		text-align: center; 
 		font-family: 'Questrial', sans-serif;
-		color: rgb(255, 237, 211); 
+		color: rgb(251, 239, 222); 
 		font-size: 45px; 
 		margin-top: -30px;
 		text-shadow: 1px 1px #000000; 
@@ -175,7 +175,7 @@ input, select, textarea {
 	.subtitle{
 		text-align: center; 
 		font-family: 'Questrial', sans-serif;
-		color: rgb(255, 237, 211); 
+		color:  rgb(251, 239, 222); 
 		font-size: 25px; 
 		text-shadow: 1px 1px #000000; 
 		margin-top: 30px;
@@ -2784,7 +2784,7 @@ input, select, textarea {
 			.title{
 				text-align: center; 
 				font-family: 'Questrial', sans-serif;
-				color: rgb(255, 237, 211); 
+				color: rgb(251, 239, 222); 
 				font-size: 35px; 
 				margin-top: -30px;
 				text-shadow: 1px 1px #000000; 
@@ -2794,7 +2794,7 @@ input, select, textarea {
 			.subtitle{
 				text-align: center; 
 				font-family: 'Questrial', sans-serif;
-				color: rgb(255, 237, 211); 
+				color:  rgb(251, 239, 222);  
 				font-size: 15px; 
 				text-shadow: 1px 1px #000000; 
 				margin-top: 30px;
