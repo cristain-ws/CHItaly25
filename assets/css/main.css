@@ -270,6 +270,7 @@ input, select, textarea {
 
 
 	.important-dates {
+	
 		font-family: 'Questrial', sans-serif;
 
 		
@@ -314,6 +315,7 @@ input, select, textarea {
 	  }
 	
 	  .date-entry {
+		
 		display: flex;
 		justify-content: space-between;
 		padding: 0.6em 0em;
