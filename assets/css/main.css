@@ -1765,7 +1765,7 @@ input, select, textarea {
 		table th {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
-			font-weight: 800;
+			font-weight: 1000;
 			margin: 0 0 1em 0;
 		}
 
@@ -2595,6 +2595,22 @@ input, select, textarea {
 				margin-bottom: 0 !important;
 			}
 
+		/* table */
+		table {
+		border-spacing: 1;
+		border-collapse: collapse;
+		background: white;
+		border-radius: 0px;
+		overflow: hidden;
+		width: 100%;
+		margin: 0 auto;
+		position: relative;
+   		}
+		table thead tr {
+			height: 50px;
+			font-size: 16px;
+		}
+
 		/* Footer */
 
 		footer {
@@ -2993,6 +3009,21 @@ input, select, textarea {
 					margin: 0 0 1em 0;
 				}
 
+		/* table */
+		table {
+		border-spacing: 1;
+		border-collapse: collapse;
+		background: white;
+		border-radius: 0px;
+		overflow: hidden;
+		width: 100%;
+		margin: 0 auto;
+		position: relative;
+   		}
+		table thead tr {
+			height: 50px;
+			font-size: 12px;
+		}
 		/* Content */
 
 			#content {
@@ -3046,12 +3077,12 @@ input, select, textarea {
 	table thead tr {
 		height: 60px;
 		background: #27316c;
-		font-size: 16px;
+		font-size: 18px;
    }
 	table.program tbody tr {
 		height: 48px;
 		background-color: rgb(243, 243, 243);
-		border-bottom: 1px solid #525252;
+		border-bottom: 1px solid #000000;
    }
 
 	table td, table th {
